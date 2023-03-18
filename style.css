@@ -1,0 +1,33 @@
+body{
+    background-color: #d5e1ef;
+    text-align: center;
+    font-family: "Outfit",sans-serif;
+}
+.ca{
+    height: 90%;
+    width: 22%;
+    margin:5% auto;
+    border-radius: 4%;
+}
+.img{
+    border-radius: 8%;
+    padding:5%;
+}
+h4{
+    padding:3% 12%;
+    font-weight: 700;
+    font-size:17px;
+}
+h6{
+    padding:0 12% 15%;
+    color: #b6b9c1;
+    font-size: small;
+}
+@media(max-width:450px) {
+    .ca{
+        height:90%;
+        width: 90%;
+        margin:5% auto;
+        border-radius: 4%;    
+}
+}
